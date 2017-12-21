@@ -1,0 +1,12 @@
+# ninja log v5
+0	3	0	CMakeFiles/cartographer_rviz_detect_changes	2c3747bdbf6605dc
+0	4729	0	CMakeFiles/cartographer_rviz_automoc	3e8dba944e625a8f
+4729	4730	0	cartographer_rviz_automoc.cpp	87c2bc0beaf1d91d
+4729	12721	0	CMakeFiles/cartographer_rviz.dir/cartographer_rviz/ogre_slice.cc.o	a620d1dc7b566aad
+4730	15776	0	CMakeFiles/cartographer_rviz.dir/cartographer_rviz_automoc.cpp.o	6558b4c4251e1ea5
+4729	17512	0	CMakeFiles/cartographer_rviz.dir/cartographer_rviz/drawable_submap.cc.o	ab3e9739a3412a99
+4729	19602	0	CMakeFiles/cartographer_rviz.dir/cartographer_rviz/submaps_display.cc.o	a6901eb2e2be29f6
+19602	19986	0	/home/ubuntu/google_ws/devel_isolated/cartographer_rviz/lib/libcartographer_rviz.so	b844d2a786ed8612
+0	3	0	CMakeFiles/cartographer_rviz_detect_changes	2c3747bdbf6605dc
+0	11	0	CMakeFiles/cartographer_rviz_automoc	3e8dba944e625a8f
+11	23	0	CMakeFiles/install.util	ad40eaf6126af52
